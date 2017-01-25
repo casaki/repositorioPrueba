@@ -1,8 +1,6 @@
 eeeee
 modificado el primero fichero en la nueva rama
 segunda modificacio en la nueva rama
-<<<<<<< HEAD
 primer fichero modificado en master
-=======
 modificacion rama2
->>>>>>> rama2
+
